@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="603fde89-2ac2-4b15-91a5-b8eb14edb028" name="Changes" comment="">
+    <list default="true" id="603fde89-2ac2-4b15-91a5-b8eb14edb028" name="Changes" comment="Commit Message">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ShopmeCommon/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/estoreCommon/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ShopmeCommon/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/estoreCommon/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ShopmeCommon/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/estoreCommon/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
@@ -132,8 +136,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630339201952</updated>
-      <workItem from="1630339206710" duration="1387000" />
+      <workItem from="1630339206710" duration="1715000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit Message">
+      <created>1630341215622</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630341215622</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,5 +161,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit Message" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Message" />
   </component>
 </project>
