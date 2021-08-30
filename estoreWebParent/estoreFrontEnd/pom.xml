@@ -8,7 +8,7 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	
-	<artifactId>ShopmeFrontEnd</artifactId>
+	<artifactId>estoreFrontEnd</artifactId>
 	<name>estoreFrontEnd</name>
 	<description>Shopping web application</description>
 
