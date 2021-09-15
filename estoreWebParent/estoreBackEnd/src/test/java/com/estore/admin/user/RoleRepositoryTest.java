@@ -1,5 +1,6 @@
 package com.estore.admin.user;
 
+import com.estore.admin.user.repository.RoleRepository;
 import com.estore.common.entity.Role;
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;

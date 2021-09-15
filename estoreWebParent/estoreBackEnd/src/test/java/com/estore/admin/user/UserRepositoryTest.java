@@ -1,5 +1,6 @@
 package com.estore.admin.user;
 
+import com.estore.admin.user.repository.UserRepository;
 import com.estore.common.entity.Role;
 import com.estore.common.entity.User;
 import org.junit.Assert;

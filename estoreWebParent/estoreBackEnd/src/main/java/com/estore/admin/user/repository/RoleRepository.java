@@ -1,4 +1,4 @@
-package com.estore.admin.user;
+package com.estore.admin.user.repository;
 
 import com.estore.common.entity.Role;
 import org.springframework.data.repository.CrudRepository;
